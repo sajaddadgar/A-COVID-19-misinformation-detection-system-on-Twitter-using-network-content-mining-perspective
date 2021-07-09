@@ -1,5 +1,4 @@
-# Approaches to automated detection of COVID-19 misinformation on Twitter
-
+# A COVID-19 misinformation detection system on Twitter using network & content mining perspective
 Dataset that have been used in the paper:
 
 | Dataset  | Description | Link |
