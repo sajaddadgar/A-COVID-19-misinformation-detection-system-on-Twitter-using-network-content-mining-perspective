@@ -10,9 +10,9 @@ Dataset that have been used in the paper:
 | Checkovid_Twitter | We extracted 43 features from the two above datasets that contain different tweet characteristics and user engagements, such as linguistic features and social context features. | [Access the dataset](https://docs.google.com/spreadsheets/d/1pV6oMV1QT4DawpyULnoMwetm4o3-EAD9eY5nBrtxhMQ/edit?usp=sharing) |
 
 This paper proposed three approaches to detect COVID-19 related misinformation. These approaches are as follow:
-* **Network-Based**: [implementation](https://github.com/sajaddadgar/automated-detection-of-COVID-19-misinformation-on-Twitter/blob/main/Network-based/fake%20news%20on%20twitter%20-%20network%20base.ipynb)
-* **Similarity-Based**: [implementation](https://github.com/sajaddadgar/automated-detection-of-COVID-19-misinformation-on-Twitter/blob/main/Similarity-based/Similarity.ipynb)
-* **Text-Based**: [implementation](https://github.com/sajaddadgar/automated-detection-of-COVID-19-misinformation-on-Twitter/tree/main/Text-based)
+* **Network-Based**: [implementation](https://github.com/sajaddadgar/A-COVID-19-misinformation-detection-system-on-Twitter-using-network-content-mining-perspective/blob/main/Network-based/fake%20news%20on%20twitter%20-%20network%20base.ipynb)
+* **Content-Based (Similarity models)**: [implementation](https://github.com/sajaddadgar/A-COVID-19-misinformation-detection-system-on-Twitter-using-network-content-mining-perspective/blob/main/Content-based/Similarity%20models/Similarity.ipynb)
+* **Content-Based (Text classification models)**: [implementation](https://github.com/sajaddadgar/A-COVID-19-misinformation-detection-system-on-Twitter-using-network-content-mining-perspective/tree/main/Content-based/Text%20classification%20models)
 
 
 ## Checkovid
