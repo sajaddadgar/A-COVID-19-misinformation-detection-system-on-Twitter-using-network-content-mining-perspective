@@ -16,7 +16,7 @@ This paper proposed three approaches to detect COVID-19 related misinformation. 
 
 
 ## Checkovid
-<img align="center" width="150px" height="150px" src="http://checkovid19.com/static/image/logo1.png">
+<img align="center" width="150px" height="150px" src="https://1drv.ms/u/s!AjgOhSoZTwCFnP9jyqzUK6xjePiGhg">
 
 A COVID-19 fact-checking website
 
